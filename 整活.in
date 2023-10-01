@@ -1,0 +1,33 @@
+new python
+new cpp
+new html
+cd python
+newcon
+当下最流行的编程语言之一
+;
+new noise
+new 爬虫
+new pygame
+new iris
+new 新建文件夹
+cd noise
+newcon
+沙盒游戏地形生成的重要组件
+;
+new 白噪音
+new 柏林噪声
+new 平滑噪声
+cd ..
+cd ..
+cd cpp
+newcon
+当下最重要的编程语言之一
+;
+new mycode
+new luogu
+cd ..
+dir
+save 自制树操作示例文件.dat.treesdosomethings
+exit
+
+
